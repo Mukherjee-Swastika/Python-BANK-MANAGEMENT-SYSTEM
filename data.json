@@ -1,0 +1,50 @@
+[
+    {
+        "name": "diya",
+        "age": 23,
+        "email": "diya@gmail.com",
+        "pin": 1234,
+        "accountNo.": "1234",
+        "balance": 200
+    },
+    {
+        "name": "harsh patel",
+        "age": 24,
+        "email": "harsh@gmail.com",
+        "pin": 1342,
+        "accountNo.": "17eL0k@",
+        "balance": 1000
+    },
+    {
+        "name": "Akarsh vyas",
+        "age": 23,
+        "email": "akarsh@gmail.com",
+        "pin": 2345,
+        "accountNo.": "x2N@G46",
+        "balance": 0
+    },
+    {
+        "name": "swastika",
+        "age": 20,
+        "email": "swastika@gmail.com",
+        "pin": 1234,
+        "accountNo.": "S433&kp",
+        "balance": 0
+    },
+    {
+        "name": "swastika",
+        "age": 20,
+        "email": "swastika@gmail.com",
+        "pin": 1234,
+        "accountNo.": "*5Ef8N6",
+        "balance": 100
+    },
+    {
+        "name": "sweta",
+        "age": 45,
+        "email": "sweta@gmail.com",
+        "pin": 3456,
+        "accountNo.": "#5LdZ30",
+        "balance": 0
+    }
+]
